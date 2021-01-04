@@ -1,0 +1,88 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template/the-big-picture)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+body {
+  /* background: url('http://placehold.it/1920x1080') no-repeat center center fixed; */
+  background-color: #212529;
+  /* -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover; */
+}
+
+.main-container {
+  margin-top: 100px;
+
+    }
+.btn
+{
+  font-family: 'Press Start 2P', cursive;
+  border-color: #18FFFF;
+  color: #FFFFFF;
+}
+
+.btn:hover
+{
+    background: #18FFFF;
+    color: #000000;
+}
+
+.no-select
+{
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */      
+}
+
+.title
+{
+  font-family: 'Press Start 2P', cursive;
+  color:#FFFFFF;
+  padding-left:5%;
+}
+.bod1
+{
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: #FFFFFF;
+  padding-left:5%;
+  padding-right:10%;
+  padding-top:1%;
+  font-size: 9em;
+  
+}
+
+.bod2
+{
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: #FFFFFF;
+  padding-left:10%;
+  padding-right:10%;
+  padding-top:2%;
+  font-size: 40px;
+}
+
+.bod3
+{
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: #FFFFFF;
+  padding-left:10%;
+  padding-right:10%;
+  padding-top:3%;
+  
+}
+
+
+.mt-10
+{
+  margin-top: 90px;
+  margin-left:38%;
+}
+
+.mt-5
+{
+  margin-top: 30%;
+  margin-left:15%;
+}
